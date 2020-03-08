@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<table border="2px">
+<tr>
+<th>Model</th>
+<th>Price</th>
+</tr>
+<tr>
+<td>BenQ GW2480</td>
+<td>16500tk (BD)</td>
+</tr>
+<tr>
+<td>Dell P2219HC</td>
+<td>$200</td>
+</tr>
+<tr>
+<td>Dell S2418H</td>
+<td>$200</td>
+</tr>
+<tr>
+<td>Dell S2719DC</td>
+<td>$400</td>
+</tr>
+<tr>
+<td>Dell SE2419H</td>
+<td>16500tk (BD)</td>
+</tr>
+<tr>
+<td>Dell U2419H</td>
+<td>30000tk (BD)</td>
+</tr>
+<tr>
+<td>Dell SE2219HX</td>
+<td>10000tk (BD)</td>
+</tr>
+<tr>
+<td>Dell P2419H</td>
+<td>20000tk (BD)</td>
+</tr>
+
+</body>
+</html>
