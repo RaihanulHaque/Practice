@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --primary-color:#fff;
+    --secondary-color:#000;
+}
+
+.dark-theme{
+    --primary-color:#061B5F;
+    --secondary-color:#fff;
+}
+
+body {
+    font-size: 15pt;
+    background-color: var(--primary-color);
+}
+header{
+    /*display: flex;
+    flex-direction: row;*/
+    flex: 2;
+    padding: 6px;
+    
+}
+header p{
+    color: var(--secondary-color);
+}
+header img{
+    height: 20px;
+    float: right;
+    margin-top: -22px;
+}
+
+.main{
+    margin-top: px;
+}
+.main h1{
+    color: var(--secondary-color);
+}
+.main span{
+    color: #FFB723;
+}
